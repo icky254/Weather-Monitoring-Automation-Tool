@@ -11,5 +11,6 @@
  2. Open the project in Visual Studio Code -> code .
  3. To open the Terminal in VS Code, use the keys Ctrl + `
  4. On your terminal, enter the following command to run the program, replacing the latitude and longitude coordinates respectively:
+  
      node index weather --lat <Latitude coordinates> --lon <Longitude coordinated>
   
