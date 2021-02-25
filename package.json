@@ -1,0 +1,24 @@
+{
+  "name": "Weather-Monitoring-Automation-Tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icky254/Weather-Monitoring-Automation-Tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icky254/Weather-Monitoring-Automation-Tool/issues"
+  },
+  "homepage": "https://github.com/icky254/Weather-Monitoring-Automation-Tool#readme",
+  "dependencies": {
+    "commander": "^7.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
