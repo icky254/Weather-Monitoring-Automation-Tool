@@ -10,7 +10,7 @@
  1. Once cloned, cd into the project directory -> cd <directory_name>
  2. Open the project in Visual Studio Code -> code .
  3. To open the Terminal in VS Code, use the keys Ctrl + `
- 4. On your terminal, enter the following command to run the program, replacing the latitude and longitude coordinates respectively:
+ 4. On your terminal, enter the following command to run the program, replacing the latitude and longitude coordinates in square brackets respectively with your city's coordinates:
   
-     node index weather --lat <Latitude coordinates> --lon <Longitude coordinated>
+     node index weather --lat [Latitude coordinates] --lon [Longitude coordinated]
   
